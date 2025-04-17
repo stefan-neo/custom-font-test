@@ -3,12 +3,12 @@
 @font-face {
   font-family: 'WMF Rotis';
   font-style: normal;
-  font-weight: 100;
+  font-weight: 400;
   font-stretch: 100%;
   src: url('https://stefan-neo.github.io/custom-font-test/rotis-ii-sans-w01.woff') format('woff');
   unicode-range: U+0000-00FF, U+0300-036F, U+1E00-1EFF;
 }
-
+/* 
 @font-face {
   font-family: 'WMF Rotis';
   font-style: normal;
@@ -79,4 +79,4 @@
   font-stretch: 100%;
   src: url('https://stefan-neo.github.io/custom-font-test/rotis-ii-sans-w01.woff') format('woff');
   unicode-range: U+0000-00FF, U+0300-036F, U+1E00-1EFF;
-}
+} */
